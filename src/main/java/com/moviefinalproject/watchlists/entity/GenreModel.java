@@ -1,0 +1,5 @@
+package com.moviefinalproject.watchlists.entity;
+
+public enum GenreModel {
+    ACTION, ADVENTURE, ANIMATION, COMEDY, CRIME, DRAMA, FANTASY, HORROR, NOIR, MUSICAL, MYSTERY, ROMANCE, SCIENCE_FICTION, SPORTS, THRILLER, WAR, WESTERN
+}

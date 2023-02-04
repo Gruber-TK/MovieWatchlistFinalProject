@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    password: watchlists
+    username: watchlists
+    url: jdbc:mysql://localhost:3306/watchlists
